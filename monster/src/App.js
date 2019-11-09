@@ -111,7 +111,7 @@ class App extends Component{
            */ 
       <div className="App">
         <h1> 大怪物用户 </h1>
-        <SearchBox placeholder='搜索怪物名称' searchChangeEvent={ this.searchChangeEvent } />
+        <SearchBox placeholder='搜索怪物名称-测试实时搜索功能' searchChangeEvent={ this.searchChangeEvent } />
         <CardList monsters={filterMonsters} />
       </div>
     );

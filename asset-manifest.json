@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-monsters-exercise/static/css/main.c45874bc.chunk.css",
-    "main.js": "/React-monsters-exercise/static/js/main.f8700201.chunk.js",
-    "main.js.map": "/React-monsters-exercise/static/js/main.f8700201.chunk.js.map",
+    "main.js": "/React-monsters-exercise/static/js/main.a4d0a289.chunk.js",
+    "main.js.map": "/React-monsters-exercise/static/js/main.a4d0a289.chunk.js.map",
     "runtime-main.js": "/React-monsters-exercise/static/js/runtime-main.db83607b.js",
     "runtime-main.js.map": "/React-monsters-exercise/static/js/runtime-main.db83607b.js.map",
     "static/js/2.786d073c.chunk.js": "/React-monsters-exercise/static/js/2.786d073c.chunk.js",
     "static/js/2.786d073c.chunk.js.map": "/React-monsters-exercise/static/js/2.786d073c.chunk.js.map",
     "index.html": "/React-monsters-exercise/index.html",
-    "precache-manifest.f48ead64a31a532f41103d626c4a651c.js": "/React-monsters-exercise/precache-manifest.f48ead64a31a532f41103d626c4a651c.js",
+    "precache-manifest.d51e138f389a2fea2ad631aadb8d95c2.js": "/React-monsters-exercise/precache-manifest.d51e138f389a2fea2ad631aadb8d95c2.js",
     "service-worker.js": "/React-monsters-exercise/service-worker.js",
     "static/css/main.c45874bc.chunk.css.map": "/React-monsters-exercise/static/css/main.c45874bc.chunk.css.map",
     "static/media/logo.svg": "/React-monsters-exercise/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.db83607b.js",
     "static/js/2.786d073c.chunk.js",
     "static/css/main.c45874bc.chunk.css",
-    "static/js/main.f8700201.chunk.js"
+    "static/js/main.a4d0a289.chunk.js"
   ]
 }
